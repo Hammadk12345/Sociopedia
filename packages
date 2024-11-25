@@ -1,0 +1,10 @@
+express body-parser 
+bcrypt: for password encryption 
+cors: for cross origin requests 
+dotenv: for environment variables
+gridfs-stream: for file upload
+multer multer-gridfs-storage: for upload the file locally
+helmet: for request safety
+morgan: for logging
+jsonwebtoken: for authentiation
+mongoose : for mongobd access
